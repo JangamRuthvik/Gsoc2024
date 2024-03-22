@@ -17,3 +17,10 @@ i have created an extension to the above feature that is full screen notificatio
 
 https://github.com/JangamRuthvik/Gsoc2024/assets/122552365/827eb536-5c12-44f4-b5f2-4086a283ef72
 
+## Task4
+
+In this task i have demonstrated,when the app is terminated,how the background task can be handled 
+
+
+https://github.com/JangamRuthvik/Gsoc2024/assets/122552365/9ee112c4-caf0-47c7-a308-58b0488393ea
+
