@@ -24,7 +24,7 @@ If the receiver of notification is in DND mode and the app is terminated,in this
 now there are no active lines of code working.
 How can we send challenge now?
 A http request.
-we send that request using silent data handle using FCM.
+we send that request using silent data handle of FCM.
 
 
 https://github.com/JangamRuthvik/Gsoc2024/assets/122552365/9ee112c4-caf0-47c7-a308-58b0488393ea
