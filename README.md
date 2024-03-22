@@ -23,7 +23,7 @@ In this task i have demonstrated,when the app is terminated,how the background t
 If the receiver of notification is in DND mode and the app is terminated,in this case we will send a challenge to sender of notification.
 now there are no active lines of code working.
 How can we send challenge now?
-A http request 
+A http request.
 we send that request using silent data handle using FCM.
 
 
