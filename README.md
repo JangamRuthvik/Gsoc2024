@@ -19,15 +19,17 @@ https://github.com/JangamRuthvik/Gsoc2024/assets/122552365/827eb536-5c12-44f4-b5
 
 ## Task4
 
-In this task i have demonstrated,when the app is terminated,how the background task can be handled 
-If the receiver of notification is in DND mode and the app is terminated,in this case we will send a challenge to sender of notification.
-now there are no active lines of code working.
-How can we send challenge now?
-A http request.
-we send that request using silent data handle of FCM.
+In this task i have demonstrated,
+How to identify the dnd status of user when the app is in
+1.)  Foreground
+2.)  Background
+3.)  Terminated
+4.)  Terminated and in Do not Disturb mode
+5.)  Terminatesd,in DND mode and the phone screen is locked
 
-Take a look at demonstration you will get a clear picture.
+The main agenda to show this demonstration is because the worst case for this project is,
+the app is terminated and user is in Do not disturb mode, someone from his contacts send a notification.Noow,there are no active lines of code to handle this scenario because the app is terminated.So this demonstration successfully handles all scenarios.
+Advice : Follow the mouse pointer to get a clear idea.
 
-
-https://github.com/JangamRuthvik/Gsoc2024/assets/122552365/9ee112c4-caf0-47c7-a308-58b0488393ea
+https://drive.google.com/file/d/1FRoKAiTfERbeOG46dd1K_1uWXF8qJJB4/view?usp=drive_link
 
