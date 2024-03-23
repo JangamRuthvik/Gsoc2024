@@ -35,3 +35,10 @@ Advice : Follow the mouse pointer to get a clear idea. <br>
 
 https://drive.google.com/file/d/1FRoKAiTfERbeOG46dd1K_1uWXF8qJJB4/view?usp=drive_link
 
+## Task5
+This task demonstrates how our app receives push notification,when <br>
+1.)  Foreground <br>
+2.)  Background <br>
+3.)  Terminated <br>
+
+https://drive.google.com/file/d/1NLeYVxgKKs6pjIrgsE8qyHhwBNBV0OHN/view?usp=drive_link
