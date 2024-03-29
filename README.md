@@ -43,5 +43,16 @@ This task demonstrates how our app receives push notification,when the app is in
 
 https://drive.google.com/file/d/1NLeYVxgKKs6pjIrgsE8qyHhwBNBV0OHN/view?usp=drive_link
 
-## Task5
-This task demonstrates the core working features of it's urgent project.
+## Task6
+This task demonstrates the working features of it's urgent project.
+In this video,i will be demonstrating different cases <br>
+1.) The app is running on foreground <br>
+2.) Tha app is running on foreground and the Do not disturb mode is on <br>
+3.) The app is running in background <br>
+4.) The app is running in background and the Do not disturb mode is on <br>
+5.) The app is terminated <br>
+6.) The app is terminated and the Do not disturb mode is on <br>
+
+please note that this UI is just for demonstrstion purpose.
+
+https://drive.google.com/file/d/1OwnM_miMbsQRE8dy9SNWFBDkpcqJMn2C/view?usp=drive_link
