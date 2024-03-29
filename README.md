@@ -53,6 +53,8 @@ In this video,i will be demonstrating different cases <br>
 5.) The app is terminated <br>
 6.) The app is terminated and the Do not disturb mode is on <br>
 
+Also,contact list integration feature is shown <br>
+
 please note that this UI is just for demonstrstion purpose.
 
 https://drive.google.com/file/d/1OwnM_miMbsQRE8dy9SNWFBDkpcqJMn2C/view?usp=drive_link
