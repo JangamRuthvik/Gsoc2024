@@ -64,6 +64,8 @@ In this video,i will be demonstrating different cases <br>
 
 Also,contact list integration feature is shown <br>
 
+in sending normal alerts i forgot to change the body of notification.I just used the challenge notification body.so,it is one thing to take note.
+
 please note that this UI is just for demonstrstion purpose.
 
 https://drive.google.com/file/d/1OwnM_miMbsQRE8dy9SNWFBDkpcqJMn2C/view?usp=drive_link
